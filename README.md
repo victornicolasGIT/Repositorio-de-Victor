@@ -1,10 +1,11 @@
 # Bienvenidos a mi repositorio!!
 
-# Mi nombre es Víctor Nicolás Delgado Rodríguez
-### Soy egresado de sociología en la UFRO de Temuco, Chile desde principios del año 2023 y desde entonces he ido de a poco instruyéndome en la programación orientada a datos.
+Mi nombre es Víctor Nicolás Delgado Rodríguez
+Soy egresado de sociología en la UFRO de Temuco, Chile desde principios del año 2023 y desde entonces he ido de a poco instruyéndome en la programación orientada a datos.
 
 ## Sobre mí
-Mi actividad favorita es leer, sobretodo teoría social. Me gustan los gatos, el maní y la música, mis géneros favoritos son el rock y el metal. En general paso mucho tiempo en mi computador y creo que el internet es la mejor invención en la historia de la humanidad :D La programación para mí es una forma práctica de confirmar esta creencia. 
+Mi actividad favorita es leer, sobretodo teoría social. Me gustan los gatos, el maní y la música, mis géneros favoritos son el rock y el metal. 
+En general paso mucho tiempo en mi computador y creo que el internet es la mejor invención en la historia de la humanidad :D La programación para mí es una forma práctica de confirmar esta creencia. 
 
 ## Propósito Profesional:
 Busco especializarme en análisis de datos usando cualquier lenguaje de programación, creo que la mirada sociológica con una buena base técnica de programación puede lograr cosas muy interesantes. En este momento estoy enfocándome en el lenguaje de programación "R" (usando survey, scales, ggplot2 y tidyverse), pero he tenido etapas donde hago más cosas en Python (usando numpy, pandas, scipy y seaborn). También puedo usar Excel/PowerBI/PowerQuery aunque debido a su entorno cerrado no es mi método preferido para analizar datos.
